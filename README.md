@@ -1,4 +1,12 @@
-<strong> O projeto tem como objetivo incentivar a prática em iniciantes na programação em Python, como eu. A calculadora possui funcionalidades matemáticas básicas, onde o úsuario pode seguir criando operações consecutivas.</strong>
+<strong> O projeto tem como objetivo incentivar a prática em iniciantes na programação em Python, como eu. A calculadora possui funcionalidades matemáticas básicas, como soma, subtração, divisão e multiplicação, onde o úsuario pode seguir criando várias operações consecutivas.</strong>
+
+*Para executar o arquivo .sh siga os passos abaixo:*
+1. Faça o download do arquivo em .sh
+2. Abra o terminal e localize o arquivo no diretorio onde ele foi salvo.
+3. Visualize o conteúdo do arquivo usando um editor de texto como nano, pelo comando "nano calculadora.sh"
+4. Dê permissão de execução ao arquivo, pelo comando "chmod +x calculadora.sh"
+5. Execute o arquivo, pelo comando "./calculadora.sh"
+ 
 
 *Para contribuir
 siga os passos abaixo:*
